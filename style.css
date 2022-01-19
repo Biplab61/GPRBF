@@ -121,7 +121,7 @@ body, html {
           font-size: 2rem;
       }
       .counter-section{
-          height: 100vh;
+          height: 120vh;
           max-height: 150vh;
       }
       .counter-section:before{
